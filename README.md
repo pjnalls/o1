@@ -29,15 +29,16 @@
 <div align="center">
 
 | Layer                         | #1 Recommendation             | #2 Recommendation  |
-| -------------                 |:------------------:           | ------------------:|
-| DevOps                        | Azure?                        | Atlassian          |
-| Product & UI/UX Design        | Excel (for Lo-fi Prototypes)  | -                  |
-| Package Manager (Windows)     | Chocolatey                    | -                  |
+| ------------------------------|:-----------------------------:| ------------------:|
+| DevOps                        | GitHub?                       | Azure              |
+| DNS & Web App Hosting         | (e.g., GoDaddy) & Azure? ($$) | -                  |
+| Product & UI/UX Design | Excel (for Lo-fi Prototypes) | Sketch (Mac Only & $$)     |
+| Package Manager (Windows)     | Chocolatey (for NVM & .NET packages) | -           |
 | VTDD Frontend Dev. & Doc.     | Angular & Storybook  | Next.js (React) & Storybook |
 | Auto Unit/BDT (TypeScript)    | Angular (Karma & Jasmine)     | -                  |
 | Client App State Management   | Redux                         |  RxJS              |
 | TDD API Dev. & Doc.           | ASP<span>.</span>NET Core MVC & Swagger | -        |
-| Auto Unit/BDT (C#)            | MSTest & .NET CLI             | xUnit?             |
+| Auto Unit/BDT (C#)            | MSTest & .NET CLI?            | xUnit?             |
 | Authentication & Authorization| https://github.com/damienbod  | -                  |
 | Security Philosophy           | Security First & Zero Trust Security        | -    |
 | Async. Client ↔ Server Comm.  | SignalR                       | -                  |
