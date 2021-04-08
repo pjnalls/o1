@@ -28,7 +28,7 @@
 
 <div align="center">
 
-| Layer                         | #1 Recommendation             | #2 Recommendation  |
+| Layer of Concern              | #1 Recommendation             | #2 Recommendation  |
 | ------------------------------|:-----------------------------:| ------------------:|
 | DevOps                        | GitHub?                       | Azure              |
 | DNS & Web App Hosting         | (e.g., GoDaddy) & Azure? ($$) | -                  |
