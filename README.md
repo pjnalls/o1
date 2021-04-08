@@ -38,10 +38,12 @@
 | VTDD Frontend Dev. & Doc.     | Angular & Storybook  | Next.js (React) & Storybook |
 | Accessibility & Performance   | Google Lighthouse             | -                  |
 | Cross-browser compatibility   | Various browsers & https://caniuse.com/ | Web MDN  |
-| Auto Unit/BDD (TypeScript)    | Angular (Karma & Jasmine)     | -                  |
+| Auto Unit/TDD (.js & .ts)     | Angular (Karma & Jasmine)     | -                  |
+| Auto Unit/BDD (.js & .ts)     | Cucumber.js                   | -                  |
 | Client App State Management   | Redux (D.R.Y. & Long-term)       |  RxJS (Quick)   |
 | TDD API Dev. & Doc.           | ASP<span>.</span>NET Core MVC & Swagger | -        |
-| Auto Unit/BDD (C#)            | xUnit<span>.</span>net? & .NET CLI?   | NUnit?     |
+| Auto Unit/TDD (C#)            | xUnit<span>.</span>net? & .NET CLI?   | NUnit?     |
+| Auto Unit/BDD (C#)            | SpecFlow (Cucumber for .NET)  | -                  |
 | Web App Security (Main Source)| https://github.com/damienbod  | -                  |
 | Security Philosophy           | Security First & Zero Trust Security        | -    |
 | Async. Client ↔ Server Comm.  | SignalR                       | -                  |
