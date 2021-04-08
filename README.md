@@ -32,19 +32,22 @@
 | ------------------------------|:-----------------------------:| ------------------:|
 | DevOps                        | GitHub?                       | Azure              |
 | DNS & Web App Hosting         | (e.g., GoDaddy) & Azure? ($$) | -                  |
-| Product & UI/UX Design | Excel (for Lo-fi Prototypes) | Sketch (Mac Only & $$)     |
+| Product & UI/UX Design | Excel (for Lo-fi Prototypes) | Sketch (Mac only & $$)     |
 | Package Manager (Windows)     | Chocolatey (for NVM & .NET packages) | -           |
+| IDE & Extensions              | VS/VSCode, ReSharper, & Prettier | -               |
 | VTDD Frontend Dev. & Doc.     | Angular & Storybook  | Next.js (React) & Storybook |
-| Auto Unit/BDT (TypeScript)    | Angular (Karma & Jasmine)     | -                  |
-| Client App State Management   | Redux                         |  RxJS              |
+| Accessibility & Performance   | Google Lighthouse             | -                  |
+| Cross-browser compatibility   | Various browsers & https://caniuse.com/ | Web MDN  |
+| Auto Unit/BDD (TypeScript)    | Angular (Karma & Jasmine)     | -                  |
+| Client App State Management   | Redux (D.R.Y. & Long-term)       |  RxJS (Quick)   |
 | TDD API Dev. & Doc.           | ASP<span>.</span>NET Core MVC & Swagger | -        |
-| Auto Unit/BDT (C#)            | MSTest & .NET CLI?            | xUnit?             |
-| Authentication & Authorization| https://github.com/damienbod  | -                  |
+| Auto Unit/BDD (C#)            | xUnit<span>.</span>net? & .NET CLI?   | NUnit?     |
+| Web App Security (Main Source)| https://github.com/damienbod  | -                  |
 | Security Philosophy           | Security First & Zero Trust Security        | -    |
 | Async. Client ↔ Server Comm.  | SignalR                       | -                  |
 | Object Relational Mapping     | Entity Framework Core         | -                  |
-| Database & Process Design     | Draw<span>.<span>io           | -                  |
+| Database & Process Design     | Draw<span>.</span>io          | -                  |
 | Middleware Database Manip.    | LINQ                          | -                  |
-| Database Mgmt. System         | Microsoft SQL Server          | MongoDB            |
+| Database Mgmt. System         | Microsoft SQL Server (RDBMS)  | MongoDB (NRDBMS)   |
 
 </div>
