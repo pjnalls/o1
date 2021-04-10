@@ -28,12 +28,12 @@
 
 <div align="center">
 
-| Layer of Concern              | #1 Recommendation             | #2 Recommendation  |
-| ------------------------------|:-----------------------------:| ------------------:|
+| Layers of Concern             | #1 Recommendation             | #2 Recommendation  |
+|-------------------------------|:-----------------------------:|-------------------:|
 | DevOps                        | GitHub?                       | Azure              |
-| DNS & Web App Hosting         | (e.g., GoDaddy) & Azure? ($$) | -                  |
+| DNS & Web App Hosting         | (e.g., GoDaddy) & Azure? ($$) | Atlassian          |
 | Product & UI/UX Design | Excel (for Lo-fi Prototypes) | Sketch (Mac only & $$)     |
-| Package Manager (Windows)     | Chocolatey (for NVM & .NET packages) | -           |
+| Package Manager (Windows)     | Chocolatey (for NVM & NuGet)  | -                  |
 | IDE & Extensions              | VS/VSCode, ReSharper, & Prettier | -               |
 | VTDD Frontend Dev. & Doc.     | Angular & Storybook  | Next.js (React) & Storybook |
 | Accessibility & Performance   | Google Lighthouse             | -                  |
@@ -45,7 +45,7 @@
 | Auto Unit/TDD (C#)            | xUnit<span>.</span>net? & .NET CLI?   | NUnit?     |
 | Auto Unit/BDD (C#)            | SpecFlow (Cucumber for .NET)  | -                  |
 | Web App Security (Main Source)| https://github.com/damienbod  | -                  |
-| Security Philosophy           | Security First & Zero Trust Security        | -    |
+| Security Paradigm             | Security First & Zero Trust Security        | -    |
 | Async. Client ↔ Server Comm.  | SignalR                       | -                  |
 | Object Relational Mapping     | Entity Framework Core         | -                  |
 | Database & Process Design     | Draw<span>.</span>io          | -                  |
