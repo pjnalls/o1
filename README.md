@@ -30,24 +30,25 @@
 
 | Layer of Concerns             | #1 Recommendation             | #2 Recommendation  |
 |-------------------------------|:-----------------------------:|-------------------:|
-| DevOps                        | GitHub?                       | Azure              |
+| DevOps                        | GitHub                        | Azure              |
 | DNS & Web App Hosting         | (e.g., GoDaddy) & Azure? ($$) | Atlassian          |
 | Product & UI/UX Design | Excel (for Lo-fi Prototypes) | Sketch (Mac only & $$)     |
 | Package Manager (Windows)     | Chocolatey (for NVM & NuGet)  | -                  |
 | IDE & Extensions              | VS/VSCode, ReSharper, & Prettier | -               |
 | VTDD Frontend Dev. & Doc.     | Angular & Storybook  | Next.js (React) & Storybook |
-| Accessibility & Performance   | Google Lighthouse             | -                  |
+| Accessibility & Performance   | Google Lighthouse             | WAVE               |
 | Cross-browser compatibility   | Various browsers & https://caniuse.com/ | Web MDN  |
-| Auto Unit/TDD (.js & .ts)     | Angular (Karma & Jasmine)     | -                  |
-| Auto Unit/BDD (.js & .ts)     | Cucumber.js                   | -                  |
+| Auto Unit/TDD (`.js` & `.ts`) | Angular (Karma & Jasmine)     | -                  |
+| Auto Unit/BDD (`.js` & `.ts`) | Cucumber.js                   | -                  |
 | Client App State Management   | Redux (D.R.Y. & Long-term)       |  RxJS (Quick)   |
 | TDD API Dev. & Doc.           | ASP<span>.</span>NET Core MVC & Swagger | -        |
-| Auto Unit/TDD (C#)            | xUnit<span>.</span>net? & .NET CLI?   | NUnit?     |
+| Auto Unit/TDD (C#)            | xUnit<span>.</span>net? & .NET CLI?   | VSTest     |
+| DBSet Mocking                 | Moq                           |                    |
 | Auto Unit/BDD (C#)            | SpecFlow (Cucumber for .NET)  | -                  |
 | Web App Security (Main Source)| https://github.com/damienbod  | -                  |
 | Security Paradigm             | Security First & Zero Trust Security        | -    |
 | Async. Client ↔ Server Comm.  | SignalR                       | -                  |
-| Object Relational Mapping     | Entity Framework Core         | -                  |
+| Object Relational Mapping     | Entity Framework              | -                  |
 | Database & Process Design     | Draw<span>.</span>io          | -                  |
 | Middleware Database Manip.    | LINQ                          | -                  |
 | Database Mgmt. System         | Microsoft SQL Server (RDBMS)  | MongoDB (NRDBMS)   |
