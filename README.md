@@ -2,15 +2,9 @@
 
 <br>
 
-<div align="center">
-  <img src="azure.png" width="45px" /> 
-  <img src="chocolatey.png" width="40px" />
-  <img src="angular.png" width="45px" />
-  <img src="storybook.png" width="40px" />
-  <img src="swagger.png" width="40px" />
-  <img src="net-core.png" width="40px" />
-  <img src="mssql.png" width="41px" />
-</div>
+<h1 align="center" style="font-size: 120px;">
+🥇
+</h1>
 
 <br>
 
@@ -29,7 +23,7 @@
 <div align="center">
 
 | Layer of Concerns             | #1 Recommendation             | #2 Recommendation  |
-|-------------------------------|:-----------------------------:|-------------------:|
+|:------------------------------|:-----------------------------:|-------------------:|
 | DevOps                        | GitHub                        | Azure              |
 | DNS & Web App Hosting         | (e.g., GoDaddy) & Azure? ($$) | Atlassian          |
 | Product & UI/UX Design | Excel (for Lo-fi Prototypes) | Sketch (Mac only & $$)     |
